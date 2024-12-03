@@ -2,7 +2,6 @@ import streamlit as st
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
-import inspect
 from PIL import Image
 
 st.markdown("# Skin Disease Classification Model Using Convolutional Neural Network")
